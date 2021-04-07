@@ -1,9 +1,0 @@
-stdio.h
-rename(char*,char*)
-int remove(char*)   file doljen bit' zakrit
-
-io.h - poisk faylov
-_findfirst(char*,_finddata)   *.txt      , vernet perviy txt fayl
-_findnext
-_findclose()
-
