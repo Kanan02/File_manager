@@ -2,7 +2,7 @@
 This is one of my first prijects of such stuff.
 This file manager is working by terminal rules. There are some commands and instuctions to use it. 
 Just compile it with MSVC compiler and the .exe file will be ready.
-This work was one is my STEP Academy projects.
+This work was one is my STEP IT Academy projects.
 
 
 Here are the commands:
